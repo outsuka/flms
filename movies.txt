@@ -1,13 +1,6 @@
-+		Jeff, who lives at home
-++		Skyfall
-		A dangerous method
-+		Cosmopolis
-++		Seven Psychopaths
-		The Expendables 2
-+		Gosford Park
-++	r	Being Elmo: A puppeteer's journey
-++		Sleepwalk with me
-+		Visioneers
-+		I'm still here
-++	r	Drive
-++		The Master
+++		no
+++		hahaha
++++		sete psicopatas e um shih tzu
+++++		o som ao redor
+++++		nota de rodapÃ©
++++++		o mestre
